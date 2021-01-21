@@ -5,10 +5,8 @@ test2.html 這程式中，我在 header放入  <link rel="stylesheet" href="boot
 <script src="jquery/jquery.min.js"></script>  <br>
 <script src="jquery/popper.min.js"></script>  <br>
 <script src="bootstrap/js/bootstrap.min.js"></script> <br>
-
 程式中~ <br>
 例：我要讓table變限，加入 <table class="table table-striped">    <br>
-
 相關的教學，看bootstrap哦  <br>
 https://www.w3schools.com/bootstrap/bootstrap_tables.asp
 
