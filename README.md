@@ -1,5 +1,6 @@
 # php11
 php寫好的程式不大美觀，透過bootstrap 美化一下畫面吧!<br>
+範例：bootstrap資料夾
 test2.html 這程式中，我在 header放入  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">  <br>
 在body結尾前，放入 <br>
 <script src="jquery/jquery.min.js"></script>  <br>
